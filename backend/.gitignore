@@ -1,0 +1,22 @@
+# Virtual Environment
+backend/venv/
+backend/env/
+backend/ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+*.sqlite3
+media/
+static/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Environment
+.env
